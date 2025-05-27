@@ -12,5 +12,4 @@ I’m a passionate software engineer and a dedicated Flutter and Dart app develo
 You can reach me at:  
 https://www.linkedin.com/notifications/?filter=all
  
-you can find me on
-https://www.instagram.com/kero_nabil20/
+
