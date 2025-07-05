@@ -1,15 +1,96 @@
-#Hi there 👋 
+# Hi there 👋 I'm Kyrillos Nabil
+**Software Engineer | Flutter & Dart Specialist**  
+*Crafting high-performance mobile experiences with modern tech stacks*
 
+---
 
+## 🔧 Technical Proficiencies
+### Core Expertise
+- **Mobile Development**: Flutter (Dart), Android/iOS native integration  
+- **Backend & Cloud**: Firebase (Auth, Firestore, Cloud Functions), .Net  
+- **Languages**: Dart, C++, C#, Java, Python  
+- **Architecture**: MVVM, BLoC, Provider, Clean Architecture
 
+### Tools & Technologies
+<img align="left" alt="Flutter" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+<img align="left" alt="Dart" width="30px" src="https://cdn.worldvectorlogo.com/logos/dart-logo.svg" />
+<img align="left" alt="Firebase" width="30px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
+<img align="left" alt="C++" width="30px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+<img align="left" alt="C#" width="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+<br/><br/>
 
-I’m a passionate software engineer and a dedicated Flutter and Dart app developer.  
-🔭 Right now, I’m actively enhancing my skills to become an even more proficient software engineer.  
-🌱 I’m eager to dive deeper into mobile and backend development.  
-👯 I’m looking for exciting opportunities to collaborate on impactful open-source projects.  
-💬 Let’s connect! Ask me about Flutter, Dart, Firebase, C++, and C#.  
+---
 
-You can reach me at:  
-https://www.linkedin.com/notifications/?filter=all
- 
+## 🚀 Current Engagements
+- 🔭 Enhancing full-stack capabilities with **backend development** focus
+- 🌱 Mastering **cloud-native architectures** and **distributed systems**
+- 📱 Building scalable Flutter plugins for cross-platform solutions
+- 👯 Seeking **open-source collaborations** in developer tooling space
 
+---
+
+## 💬 Knowledge Exchange
+Let's discuss:
+| Topic          | Specialization Areas                          |
+|----------------|-----------------------------------------------|
+| **Flutter**    | State management • Performance optimization   |
+| **Dart**       | Isolates • FFI • Metaprogramming              |
+| **Firebase**   | Real-time systems • Security Rules            |
+| **C++/C#**     | Native interop                                |
+
+---
+
+## 📫 Connect With Me
+[![www.linkedin.com/in/kyrillos-zakhary
+
+](# Hi there 👋 I'm [Your Name]
+**Software Engineer | Flutter & Dart Specialist**  
+*Crafting high-performance mobile experiences with modern tech stacks*
+
+---
+
+## 🔧 Technical Proficiencies
+### Core Expertise
+- **Mobile Development**: Flutter (Dart), Android/iOS native integration  
+- **Backend & Cloud**: Firebase (Auth, Firestore, Cloud Functions), Node.js  
+- **Languages**: Dart, C++, C#, Java, Python  
+- **Architecture**: MVVM, BLoC, Provider, Clean Architecture
+
+### Tools & Technologies
+<img align="left" alt="Flutter" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+<img align="left" alt="Dart" width="30px" src="https://cdn.worldvectorlogo.com/logos/dart-logo.svg" />
+<img align="left" alt="Firebase" width="30px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
+<img align="left" alt="C++" width="30px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+<img align="left" alt="C#" width="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+<br/><br/>
+
+---
+
+## 🚀 Current Engagements
+- 🔭 Enhancing full-stack capabilities with **backend development** focus
+- 🌱 Mastering **cloud-native architectures** and **distributed systems**
+- 📱 Building scalable Flutter plugins for cross-platform solutions
+- 👯 Seeking **open-source collaborations** in developer tooling space
+
+---
+
+## 💬 Knowledge Exchange
+Let's discuss:
+| Topic          | Specialization Areas                          |
+|----------------|-----------------------------------------------|
+| **Flutter**    | State management • Performance optimization   |
+| **Dart**       | Isolates • FFI • Metaprogramming              |
+| **Firebase**   | Real-time systems • Security Rules            |
+| **C++/C#**     | Native interop • Game development             |
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](www.linkedin.com/in/kyrillos-zakhary)
+[![Instgram]([https://img.shields.io/badge/Twutter-Flutter_Community-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-handle](https://www.instagram.com/kero_nabil20/))
+[![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?style=flat&logo=github)](https://github.com/your-username)
+
+---
+
+> *"Clean code is not written by following rules; it's written by experience and continuous refinement."*  
+> Let's build impactful solutions together!
