@@ -25,9 +25,7 @@ Shorouk Academy (Cairo, Egypt)
 
 ### Architecture & Tools
 <img align="left" alt="Flutter" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
-<img align="left" alt=".NET" width="30px" src="https://cdn.worldvectorlogo.com/logos/dot-net.svg" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
 <br/><br/>
 
