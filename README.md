@@ -56,7 +56,6 @@ Let's discuss:
 
 ### Tools & Technologies
 <img align="left" alt="Flutter" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
-<img align="left" alt="Dart" width="30px" src="https://cdn.worldvectorlogo.com/logos/dart-logo.svg" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
 <img align="left" alt="C++" width="30px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
 <img align="left" alt="C#" width="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
