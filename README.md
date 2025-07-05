@@ -13,7 +13,6 @@
 
 ### Tools & Technologies
 <img align="left" alt="Flutter" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
-<img align="left" alt="Dart" width="30px" src="https://cdn.worldvectorlogo.com/logos/dart-logo.svg" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
 <img align="left" alt="C++" width="30px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
 <img align="left" alt="C#" width="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
@@ -68,27 +67,16 @@ Let's discuss:
 
 ## 🚀 Current Engagements
 - 🔭 Enhancing full-stack capabilities with **backend development** focus
-- 🌱 Mastering **cloud-native architectures** and **distributed systems**
 - 📱 Building scalable Flutter plugins for cross-platform solutions
 - 👯 Seeking **open-source collaborations** in developer tooling space
 
 ---
 
-## 💬 Knowledge Exchange
-Let's discuss:
-| Topic          | Specialization Areas                          |
-|----------------|-----------------------------------------------|
-| **Flutter**    | State management • Performance optimization   |
-| **Dart**       | Isolates • FFI • Metaprogramming              |
-| **Firebase**   | Real-time systems • Security Rules            |
-| **C++/C#**     | Native interop • Game development             |
-
----
 
 ## 📫 Connect With Me
 [![LinkedIn](www.linkedin.com/in/kyrillos-zakhary)
-[![Instgram]([https://img.shields.io/badge/Twutter-Flutter_Community-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-handle](https://www.instagram.com/kero_nabil20/))
-[![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?style=flat&logo=github)](https://github.com/your-username)
+[![Instgram](https://www.instagram.com/kero_nabil20/)
+[![GitHub](https://github.com/keronabil20/)
 
 ---
 
