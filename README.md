@@ -33,7 +33,6 @@ Let's discuss:
 | Topic          | Specialization Areas                          |
 |----------------|-----------------------------------------------|
 | **Flutter**    | State management • Performance optimization   |
-| **Dart**       | Isolates • FFI • Metaprogramming              |
 | **Firebase**   | Real-time systems • Security Rules            |
 | **C++/C#**     | Native interop                                |
 
