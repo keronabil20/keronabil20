@@ -38,8 +38,7 @@ Shorouk Academy (Cairo, Egypt)
 - **QR Attendance System** - SQLite-based solution for attendance tracking
 - **Voice Recorder** - Intuitive UI with playback features
 
-## 🎨 UI/UX Design Experience
-
+### 🎨 UI/UX Design Experience
 - **User-Centered Design:** Wireframing, prototyping (Figma, Adobe XD), and moderated/unmoderated usability testing.
 - **Design Systems:** Built reusable component libraries (mobile/web), tokens, and documentation.
 - **Accessibility:** Applied WCAG-focused color contrast, readable typography, and keyboard navigation.
